@@ -2,7 +2,7 @@
 🕵️‍♀️ Passionate about software engineering and data analysis
 
 <h3> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Tecnologias 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
 </h3> 
 
 <div align="center"> <img src="https://img.shields.io/badge/PHP-24273a?style=for-the-badge&logo=php&logoColor=8892be" alt="PHP"> 
