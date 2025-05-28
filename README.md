@@ -11,7 +11,3 @@
 <img src="https://img.shields.io/badge/PostgreSQL-24273a?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"> 
 </div> 
 
-<h3> 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Atividades 
-</h3>
-
