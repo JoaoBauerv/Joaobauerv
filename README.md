@@ -1,4 +1,4 @@
-👨‍💻 Systems Analysis and Development student at IFSUL
+👨‍💻 Systems Analysis and Development student at IFSUL <br>
 🕵️‍♀️ Passionate about software engineering and data analysis
 
 <h3> 
