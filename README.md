@@ -1,5 +1,12 @@
 👨‍💻 Systems Analysis and Development student at IFSUL <br>
-🕵️‍♀️ Passionate about software engineering and data analysis
+
+<h3>🧠 About me:</h3>
+
+- 🎓 Currently studying Systems Analysis and Development at IFSUL
+- 💾 Focused on backend development and relational databases
+- 🤝 Open to networking and collaborative learning
+
+
 
 <h3> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
@@ -11,3 +18,12 @@
 <img src="https://img.shields.io/badge/PostgreSQL-24273a?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"> 
 </div> 
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobauerv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobauerv&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+<h3>📫 Contact:</h3>
+
+- LinkedIn: [Joaobauerv](https://linkedin.com/in/joaobauerv)
+- Email: joaovitorverzeletti@gmail.com
