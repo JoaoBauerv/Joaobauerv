@@ -1,4 +1,3 @@
-👨‍💻 Systems Analysis and Development student at IFSUL <br>
 
 <h3>🧠 About me:</h3>
 
@@ -19,7 +18,6 @@
 </div> 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobauerv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobauerv&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
