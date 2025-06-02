@@ -1,12 +1,4 @@
 
-<h3>🧠 About me:</h3>
-
-- 🎓 Currently studying Systems Analysis and Development at IFSUL
-- 💾 Focused on backend development and relational databases
-- 🤝 Open to networking and collaborative learning
-
-
-
 <h3> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Technologies
 </h3> 
@@ -21,7 +13,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobauerv&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<h3>📫 Contact:</h3>
-
-- LinkedIn: [Joaobauerv](https://linkedin.com/in/joaobauerv)
 - Email: joaovitorverzeletti@gmail.com
